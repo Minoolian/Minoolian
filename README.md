@@ -4,6 +4,7 @@
 <!-- 로고꾸미기 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinoolian&count_bg=%2381B1FB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![wakatime](https://wakatime.com/badge/user/8fd8dd9a-1bf0-463c-be6d-6ff0a7b67af1.svg)](https://wakatime.com/@8fd8dd9a-1bf0-463c-be6d-6ff0a7b67af1)
 ***
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
