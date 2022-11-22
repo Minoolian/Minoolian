@@ -8,12 +8,13 @@
 ***
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Security-3766AB?style=for-the-badge&logo=Spring Security&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=AmazonRDS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Security-3766AB?style=for-the-badge&logo=Spring Security&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 
 
